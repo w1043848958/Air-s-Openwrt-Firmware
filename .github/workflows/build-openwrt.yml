@@ -23,7 +23,7 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://https://github.com/w1043848958/OpenWrt-CI
+  REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   CONFIG_FILE: .config
   DIY_SH: diy.sh
